@@ -1,6 +1,6 @@
 # New York Taxi Analysis
 Hi bodies  
-This is  my first project in datascience :)
+This is  my first project in data science :)
 
 ## So it should be  BOLD :))
 
