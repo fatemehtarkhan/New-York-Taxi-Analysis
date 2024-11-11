@@ -11,3 +11,6 @@ This is  my first project in data science :)
 ### What problom I try to solve?
 ### Methodology?
 ### What was the results?
+# PS:
+. Data Set Download Link
+. Charts And Pictures 
