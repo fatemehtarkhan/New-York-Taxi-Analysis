@@ -9,4 +9,5 @@ This is  my first project in data science :)
 # Explanation:
 ### What kind  of data do I have?
 ### What problom I try to solve?
+### methodology?
 ### What was the results?
