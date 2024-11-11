@@ -6,7 +6,7 @@ This is  my first project in data science :)
 
 :* :P <3
 
-### Explanation:
-# What kind  of data do I have?
-# What problom I try to solve?
-# What was the results?
+# Explanation:
+### What kind  of data do I have?
+### What problom I try to solve?
+### What was the results?
